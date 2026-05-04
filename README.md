@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gyanendra Raz</h1>
 <h3 align="center">🚀 Data Analyst | SQL | Python | Power BI</h3>
 
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-green)
+
 ---
 
 ## 🧑‍💻 About Me
